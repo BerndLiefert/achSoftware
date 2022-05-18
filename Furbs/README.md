@@ -1,3 +1,3 @@
 # achSoftware
 
-![project](./furbs.jpg)
+![furbs](./furbs.png)
